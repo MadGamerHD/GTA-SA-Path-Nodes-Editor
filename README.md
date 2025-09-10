@@ -33,3 +33,4 @@ The **GTA SA Path Nodes Editor** is a powerful Blender addon designed to import,
 ### 📂 File Format Support
 
 * `.dat` files (GTA SA pathfinding nodes)
+* Updates Coming Soon
